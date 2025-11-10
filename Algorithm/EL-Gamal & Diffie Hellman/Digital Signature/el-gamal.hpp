@@ -7,7 +7,7 @@
 using namespace std;
 using namespace NTL;
 
-class ELGDH {
+class ELGDH { 
 private:
     ZZ p; 
     ZZ g;
