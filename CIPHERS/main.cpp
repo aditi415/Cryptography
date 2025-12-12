@@ -17,7 +17,6 @@ int main() {
 
     cin.ignore(); 
 
-    
     cout << "\n--- Vigenere Cipher ---\n";
     cout << "Enter key: ";
     getline(cin, key);
