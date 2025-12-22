@@ -1,7 +1,7 @@
 #ifndef RSA_HPP
 #define RSA_HPP
 
-#include <NTL/ZZ.h>
+#include <NTL/ZZ.h> 
 using namespace NTL;
 
 class RSA {
