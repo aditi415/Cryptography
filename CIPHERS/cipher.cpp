@@ -1,5 +1,4 @@
 #include "cipher.hpp"
-
 string CaesarCipher::encrypt(const string &text) {
     string result = "";
     for (int i = 0; i < text.length(); i++) {
