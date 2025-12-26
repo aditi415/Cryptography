@@ -12,7 +12,6 @@ string CaesarCipher::encrypt(const string &text) {
     }
     return result;
 }
-
 string CaesarCipher::decrypt(const string &text) {
     string result = "";
     for (int i = 0; i < text.length(); i++) {
