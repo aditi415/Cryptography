@@ -1,6 +1,5 @@
 #ifndef ELLIPTIC_HPP
 #define ELLIPTIC_HPP
-
 #include <NTL/ZZ_p.h>
 #include <iostream>
 using namespace std;
