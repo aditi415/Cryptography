@@ -2,7 +2,7 @@
 #include <iomanip>
 #include "sha256.hpp"
 
-using namespace std;
+using namespace std;  
 
 int main() {
     string msg;
