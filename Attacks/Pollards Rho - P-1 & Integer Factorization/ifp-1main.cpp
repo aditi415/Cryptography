@@ -1,7 +1,6 @@
 #include <iostream>
 #include <NTL/ZZ.h>
 #include "ifp-1.hpp"
-
 using namespace std;
 using namespace NTL;
 
