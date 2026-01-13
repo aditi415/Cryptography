@@ -1,6 +1,5 @@
 #include "ifp-1.hpp"
-#include <NTL/ZZ.h>
-
+#include <NTL/ZZ.h
 using namespace NTL;
 
 Pollard::Pollard(const ZZ& num) {
