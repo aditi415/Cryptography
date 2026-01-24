@@ -1,4 +1,5 @@
 #include "el-dh.hpp"
+
 ELGDH::ELGDH() {
     p = RandomPrime_ZZ(40);
     g = conv<ZZ>(2);        
