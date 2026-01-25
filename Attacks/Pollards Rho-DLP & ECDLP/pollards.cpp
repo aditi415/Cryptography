@@ -1,6 +1,7 @@
 #include "pollards.hpp"
 #include <NTL/ZZ.h>
 #include <NTL/ZZ_p.h>
+
 using namespace NTL;
 
 static ZZ to_ZZ(long long x) { return ZZ(x); }
