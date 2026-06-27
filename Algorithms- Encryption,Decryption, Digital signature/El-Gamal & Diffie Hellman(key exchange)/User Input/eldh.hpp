@@ -1,8 +1,8 @@
 #ifndef ElGamal_DH_HPP
 #define ElGamal_DH_HPP
-
 #include <NTL/ZZ.h>
 #include <iostream>
+
 using namespace NTL;
 using namespace std;
 
