@@ -1,7 +1,9 @@
 #include "sha256.hpp"
+
 #include <cstring>
 #include <iomanip>
 #include <sstream>
+
 using namespace std;
 using namespace NTL;
 
