@@ -1,5 +1,6 @@
 #ifndef SHA256_HPP
 #define SHA256_HPP
+
 #include <vector>
 #include <string>
 #include <NTL/ZZ.h>
