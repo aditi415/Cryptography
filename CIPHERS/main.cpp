@@ -1,5 +1,6 @@
 #include "cipher.hpp"
 
+
 int main() {
     string text, key;
     int shift;
