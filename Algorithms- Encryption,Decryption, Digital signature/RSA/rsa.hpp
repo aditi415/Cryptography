@@ -2,6 +2,7 @@
 #define RSA_HPP
 
 #include <NTL/ZZ.h> 
+
 using namespace NTL;
 
 class RSA {
