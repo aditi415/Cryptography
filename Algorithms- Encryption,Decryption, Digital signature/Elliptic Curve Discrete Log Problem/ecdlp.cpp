@@ -6,7 +6,6 @@ EllipticCurve::EllipticCurve(ZZ _p, ZZ_p _a, ZZ_p _b) {
     a = _a;
     b = _b;
 }
-
 void EllipticCurve::printParams() {
     cout << "Curve: y^2 = x^3 + " << a << "x + " << b << " (mod " << p << ")" << endl;
 }
