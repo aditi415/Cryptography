@@ -1,5 +1,6 @@
 #ifndef POLLARD_HPP
 #define POLLARD_HPP
+
 #include <NTL/ZZ.h>
 
 using namespace NTL;
