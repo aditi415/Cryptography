@@ -1,5 +1,6 @@
 #include <iostream>
 #include "pollards.hpp"
+
 int main() {
     Pollard P;
 
