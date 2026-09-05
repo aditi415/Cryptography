@@ -1,5 +1,4 @@
 #include "ciphers.hpp"
-
 using namespace std;
 
 void Cipher::caesar() {
