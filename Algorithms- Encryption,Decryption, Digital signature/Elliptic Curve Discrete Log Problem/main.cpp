@@ -1,4 +1,5 @@
 #include "ecdlp.hpp"
+
 using namespace std;
 using namespace NTL;
 
