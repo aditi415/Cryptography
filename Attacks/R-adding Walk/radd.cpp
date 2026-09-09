@@ -1,9 +1,7 @@
 #include "radd.hpp"
-
 #include <NTL/ZZ.h>
 #include <NTL/ZZ_p.h>
 #include <NTL/Random.h>
-
 #include <iostream>
 
 using namespace NTL;
