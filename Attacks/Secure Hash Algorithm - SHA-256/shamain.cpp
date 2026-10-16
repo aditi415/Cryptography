@@ -1,6 +1,5 @@
 #include <iostream>
 #include <iomanip>
-
 #include "sha256.hpp"
 
 using namespace std;  
