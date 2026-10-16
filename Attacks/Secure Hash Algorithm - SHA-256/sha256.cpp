@@ -1,4 +1,5 @@
 #include "sha256.hpp"
+
 #include <cstring>
 #include <iomanip>
 #include <sstream>
