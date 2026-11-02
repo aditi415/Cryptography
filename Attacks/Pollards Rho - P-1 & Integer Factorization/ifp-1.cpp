@@ -1,4 +1,5 @@
 #include "ifp-1.hpp"
+
 #include <NTL/ZZ.h
 
 using namespace NTL;
