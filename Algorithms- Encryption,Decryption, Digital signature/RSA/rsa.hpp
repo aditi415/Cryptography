@@ -1,6 +1,5 @@
 #ifndef RSA_HPP
 #define RSA_HPP
-
 #include <NTL/ZZ.h> 
 
 using namespace NTL;
